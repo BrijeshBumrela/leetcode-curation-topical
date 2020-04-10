@@ -83,7 +83,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Kth smallest element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (medium) (done)
 * [Lowest common ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) (medium)
 * [Maximum binary tree](https://leetcode.com/problems/maximum-binary-tree/) (medium) (done)
-* [Maximum level sum of a binary tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) (medium)
+* [Maximum level sum of a binary tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) (medium) (done)
 * [Sum root to leaf numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) (medium)
 * [Unique binary search trees](https://leetcode.com/problems/unique-binary-search-trees/) (medium)
 * [Validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree/) (medium)
