@@ -81,7 +81,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Construct binary tree from preorder and postorder traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) (medium)
 * [Flatten binary tree to linked list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) (medium)
 * [Kth smallest element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (medium) (done)
-* [Lowest common ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) (medium)
+* [Lowest common ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) (medium) (done)
 * [Maximum binary tree](https://leetcode.com/problems/maximum-binary-tree/) (medium) (done)
 * [Maximum level sum of a binary tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) (medium) (done)
 * [Sum root to leaf numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) (medium)
