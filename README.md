@@ -86,7 +86,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Maximum level sum of a binary tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) (medium) (**done**)
 * [Sum root to leaf numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) (medium)
 * [Unique binary search trees](https://leetcode.com/problems/unique-binary-search-trees/) (medium)
-* [Validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree/) (medium)
+* [Validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree/) (medium) (**done**)
 * [Binary tree maximum path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) (hard)
 ## Graphs
 * [Flood fill](https://leetcode.com/problems/flood-fill/) (easy) (**done**)
@@ -97,7 +97,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Graph valid tree](https://leetcode.com/problems/graph-valid-tree/) (medium)
 * [Pacific atlantic water flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) (medium)
 * [Redundant connection](https://leetcode.com/problems/redundant-connection) (medium)
-* [Word ladder](https://leetcode.com/problems/word-ladder/) (medium)
+* [Word ladder](https://leetcode.com/problems/word-ladder/) (medium) 
 * [Word search](https://leetcode.com/problems/word-search/) (medium)
 ## Recursion/Backtracking
 * [Combination Sum](https://leetcode.com/problems/combination-sum/) (medium)
